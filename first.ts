@@ -8,3 +8,6 @@ function fullName(firstName: String, lastName: String):String {
 let result = fullName(firstName, LastName);
 console.log(result);
 
+function submit(){
+    const input = document.getElementById('input').value;
+}
