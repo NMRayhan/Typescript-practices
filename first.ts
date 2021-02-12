@@ -1,5 +1,10 @@
-function add(num1: string, num2: string) {
-    return num1 + num2
+let firstName: String = "Nur Mohammad";
+let LastName: String = "Rayhan";
+
+function fullName(firstName: String, lastName: String):String {
+    return firstName+' '+lastName
 }
-let result = add('Jhon', 'smit')
+
+let result = fullName(firstName, LastName);
 console.log(result);
+

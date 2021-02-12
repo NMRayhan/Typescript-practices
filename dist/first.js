@@ -1,6 +1,8 @@
 "use strict";
-function add(num1, num2) {
-    return num1 + num2;
+var firstName = "Nur Mohammad";
+var LastName = "Rayhan";
+function fullName(firstName, lastName) {
+    return firstName + ' ' + lastName;
 }
-var result = add('Jhon', 'smit');
+var result = fullName(firstName, LastName);
 console.log(result);
