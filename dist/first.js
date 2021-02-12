@@ -1,3 +1,6 @@
 "use strict";
-var myMoney = 20;
-myMoney = 10;
+function add(num1, num2) {
+    return num1 + num2;
+}
+var result = add('Jhon', 'smit');
+console.log(result);
