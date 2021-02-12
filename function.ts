@@ -1,4 +1,4 @@
-let Multiply: (num1: number, num2: number): number
+let Multiply: (num1: number, num2: number) => number
 
 Multiply = (x:number, y:number) => x * y;
 

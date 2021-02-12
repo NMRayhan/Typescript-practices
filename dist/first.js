@@ -6,6 +6,3 @@ function fullName(firstName, lastName) {
 }
 var result = fullName(firstName, LastName);
 console.log(result);
-function submit() {
-    var input = document.getElementById('input').value;
-}

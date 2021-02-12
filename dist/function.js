@@ -1,5 +1,5 @@
 "use strict";
-var Multiply, number;
+var Multiply;
 Multiply = function (x, y) { return x * y; };
 function doubleit(num1) {
     return num1 * 2;
