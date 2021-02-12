@@ -1,0 +1,10 @@
+"use strict";
+var fname, lName;
+fname = "nur Mohammad";
+lName = "Rayhan";
+var dateOfBirth = "5/08/1997";
+var universityName = "Daffodil International University";
+var course = ['Data Structure', 'Algorithm', 'Networking', 'Business Analysis', 'many more'];
+var isSingle = true;
+console.log(isSingle);
+console.log(dateOfBirth);
